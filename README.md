@@ -1,8 +1,15 @@
-# BuzzFeed Aplicação Angular
+# BuzzFeed Quiz Aplicação Angular
 
 ## Descrição
 
-Esta aplicação Angular foi desenvolvida para criar testes parecidos com os que o [BuzzFeed](https://buzzfeed.com.br/) faz em um layout estruturado. Ela utiliza componentes Angular para organizar e apresentar o conteúdo de forma eficiente.
+Este componente Angular foi desenvolvido para criar um questionário interativo onde o usuário pode responder a uma série de perguntas e, com base nas respostas, determinar se seria mais propenso a ser um herói ou um vilão em um cenário de super-heróis.
+
+## Funcionalidades
+
+- Apresenta uma série de perguntas com opções de resposta.
+- O usuário pode selecionar uma resposta para cada pergunta.
+- Após responder todas as perguntas, o componente calcula o resultado com base nas respostas dadas.
+- Exibe um resultado final indicando se o usuário seria mais propenso a ser um herói ou um vilão.
 
 ## Instalação
 
